@@ -15,9 +15,8 @@
 
 #include "shell_in_turkish.h"
 
-GIRIS { //BASLA ve BITIR komutlari calismiyor help me
-    BESDON { 
+GIRIS BASLA //BASLA ve BITIR komutlari calismiyor help me
+    BESDON BASLA 
         YAZ("Merhaba Turkce Shell :) \n"); 
-        
-    }
-    }
+    BITIR
+BITIR

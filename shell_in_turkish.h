@@ -35,7 +35,6 @@
 
 #define BASLA {
 #define BITIR }
-#define TIRNAK "
 #define DEGISTIR switch(
 #define IN ){
 #define ICIN for(

@@ -12,7 +12,7 @@
  * 
  * 
  */
-
+#include <stdio.h>
 
 #define DURGUN static
 #define DIS extern
